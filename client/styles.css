@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+body{
+    align-items: center;
+}
+
 h1 {
     color: cadetblue;
+}
+
+h2 {
+    color: darkolivegreen;
 }

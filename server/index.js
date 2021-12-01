@@ -4,7 +4,7 @@ const path = require("path")
 
 const app = express()
 
-//use express to serve up static files in client folder
+//use express to serve up static files in client folder (html, css, etc)
 app.use(express.static("client"))
 
 //Allowing heroku to find file path
